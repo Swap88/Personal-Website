@@ -1,0 +1,21 @@
+body{
+  background-color: #D4ECDD;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 5%;
+}
+h1{
+  font-size: 50px;
+  letter-spacing: -1.5px;
+  line-height: 120%;
+  display: inline-block;
+  color: #fff;
+  background: linear-gradient(
+271deg,#a0e9ff 30%,#a162e8 50%,#f093b0 70%,#edca85 94%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
